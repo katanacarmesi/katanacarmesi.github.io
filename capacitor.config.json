@@ -1,0 +1,11 @@
+{
+  "appId": "co.ruteo.bogota",
+  "appName": "Ruteo Bogotá",
+  "webDir": "www",
+  "backgroundColor": "#07080b",
+  "ios": {
+    "contentInset": "never",
+    "scrollEnabled": false,
+    "backgroundColor": "#07080b"
+  }
+}
